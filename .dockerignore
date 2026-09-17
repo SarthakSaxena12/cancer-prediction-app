@@ -1,0 +1,5 @@
+myenv/
+__pycache__/
+data.csv
+ML Task3.pdf
+*.ipynb
