@@ -5,7 +5,7 @@ built as part of CCC's ML Task 3.
 
 ## Live Links
 - **API (FastAPI)**: http://65.1.248.79:8000/docs
-- **Frontend (Streamlit)**: Coming Soon
+- **Frontend (Streamlit)**: https://cancer-prediction-app-25vi8makvzmxzbgaswugi4.streamlit.app/
 
 ## Project Structure
 - `Cancer.ipynb` — full pipeline: EDA, feature engineering, model training, evaluation
